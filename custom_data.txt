@@ -1,0 +1,52 @@
+When and where was Furkan born? <QUESTION>
+İsmail Furkan Atasoy was born in Şereflikoçhisar which is a district of Ankara on 03/08/1998. <END>
+
+Where does Furkan live? <QUESTION>
+Furkan currently lives in Gölbaşı/Ankara as of the year 2024. <END>
+
+Does Furkan work at any company? <QUESTION>
+Furkan does not work at any company. <END>
+
+What is Furkan's educational information? <QUESTION>
+Furkan completed his primary school, secondary school and high school education in his hometown which is Şereflikoçhisar/ANKARA.
+He is currently studying his university education as a 4th year (senior grade) student at Ankara University Computer Engineering Department. <END>
+
+What are Furkan's career plans? <QUESTION>
+Furkan is planning to improve his career in the fields of data science, machine learning, deep learning, NLP, LLM etc. 
+He is also planning to start studying for a master's degree in the same fields, after his graduation. <END>
+
+What are Furkan's hobbies? <QUESTION>
+Furkan likes to play guitar and singing. He also likes snowboarding. <END>
+
+What is Furkan's favourite food? <QUESTION>
+Furkan's favourite food is unknown for now. <END>
+
+<QUESTION>
+Sorry, I only have some information about Furkan and I don't have knowledge about this. <END>
+
+<QUESTION>
+Sorry, I only have some information about Furkan and I don't have knowledge about this. <END>
+
+<QUESTION>
+Sorry, I only have some information about Furkan and I don't have knowledge about this. <END>
+
+<QUESTION>
+Sorry, I only have some information about Furkan and I don't have knowledge about this. <END>
+
+<QUESTION>
+Sorry, I only have some information about Furkan and I don't have knowledge about this. <END>
+
+<QUESTION>
+Sorry, I only have some information about Furkan and I don't have knowledge about this. <END>
+
+<QUESTION>
+Sorry, I only have some information about Furkan and I don't have knowledge about this. <END>
+
+<QUESTION>
+Sorry, I only have some information about Furkan and I don't have knowledge about this. <END>
+
+<QUESTION>
+Sorry, I only have some information about Furkan and I don't have knowledge about this. <END>
+
+<QUESTION>
+Sorry, I only have some information about Furkan and I don't have knowledge about this. <END>
